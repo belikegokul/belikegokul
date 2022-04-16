@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @belikegokul
 - 👀 I’m interested in Java Programming & Android
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Spring Boot + Microservices
 - 💞️ I’m looking to collaborate on intresting people
 - 📫 How to reach me - gokul3210@gmail.com
 
